@@ -1,5 +1,5 @@
 # COMP1231-Assignments
-This repository is to present my assignment coursework for TRU-OL COMP1231, a Java-based course on Object-Oriented programming.
+This repository is designed to present my assignment coursework for TRU-OL COMP1231, a Java-based course on Object-Oriented programming.
 These assignemts were graded and came out to a 93% in total.
 
 I attempt to place a focus on **testing** of each component of the program, including some tests which are not including in the original submissions.

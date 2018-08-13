@@ -6,4 +6,4 @@ Classes Cone, Cube, and Cylinder, all inherit from the Shape class and present t
 
 ## Screenshots
 
-![Screenshot](Assignment1/img/test-run.png)
+![Screenshot](https://github.com/AntonNiko/COMP1231-Assignments/blob/master/Assignment1/img/test-run.png)

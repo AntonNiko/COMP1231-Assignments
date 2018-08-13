@@ -8,9 +8,7 @@ displays a *JOptionPane* message dialog telling the user to provide a valid inpu
 
 ### Screenshots
 ![Screenshot](Assignment5-1/img/test-run-1.png)
-
 ![Screenshot](Assignment5-1/img/test-run-2.png)
-
 ![Screenshot](Assignment5-1/img/test-run-3.png)
 
 ## Part 2
@@ -19,8 +17,6 @@ activate the stopwatch easily.
 
 ### Screenshots
 ![Screenshot](Assignment5-2/img/test-run-1.png)
-
 ![Screenshot](Assignment5-2/img/test-run-2.png)
-
 ![Screenshot](Assignment5-2/img/test-run-3.png)
 
